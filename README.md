@@ -25,9 +25,9 @@ If you use mobile phone,please set the UA of Browser as "Desktop" or maybe repli
 1. Creat a Bash-language project.
   
 2. Copy these code to Replit's Shell and ←
-  
-  `git clone https://github.com/gityzon/sh-shiori-1.5.sh-shiori-1.5.2 mv sh-shiori-1.5.2-pg/* ./ && mv -b sh-shiori-1.5.2/sh-shiori-1.5.2]* ./ && rm -rf *~sh-shiori-1.5.2rm -rf sh-shiori-1.5.2`
-  
+
+   `git clone https://github.com/gityzon/sh-shiori-1.5.2 && mv -b sh-shiori-1.5.2/* ./ && mv -b sh-shiori-1.5.2/.[^.]* ./ && rm -rf *~ && rm -rf sh-shiori-1.5.2`
+
 3. After "Loading Nix environment..." is done, ▶RUN!!!
   
 
